@@ -6,9 +6,9 @@
 
 1. Clone git repo
    ```console
-    git clone https://github.com/sam4web/get_quote.git
+    git clone <this-repo>
    ```
-2. Create a virtual environment
+2. Create and activate virtual environment
    ```console
     python -m venv
     source env/Scripts/activate
